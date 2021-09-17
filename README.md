@@ -1,0 +1,2 @@
+# SequelizeCLI
+ Sequelize CLI - skeleton
